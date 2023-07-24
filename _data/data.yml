@@ -14,9 +14,9 @@ sidebar:
 
     # Sidebar links
     email: clgo@sas.upenn.edu
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    linkedin: #alandoe
+    github: contralto
+    twitter: #'@webjeda'
 
     # languages:
     #   title: Languages
@@ -82,108 +82,111 @@ experiences:
       - role: Research Specialist
         time: July 2023 - Present
         company: Schapiro Lab at the University of Pennsylvania, Philadelphia
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #   error sit voluptatem accusantium doloremque laudantium, totam rem
+        #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #   architecto beatae vitae dicta sunt explicabo.
+        #     - Bullet point
+        #     - Bullet point
+      - role: Undergraduate Research Assistant
+        time: October 2019 - July 2023
+        company: U-M Speech Production Lab
+        details: 
+          # Describe your role here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          # Cum sociis natoque penatibus et magnis dis parturient montes,
+          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          # pellentesque eu, pretium quis, sem.
+            - Implement numerous R scripts to create graphs for published papers 
+            - Head the creation of an R tutorial for students with any experience to begin creating graphs and modifying data
+            - Edit research papers written in the lab to improve organization and clarity through multiple broad and detail-oriented revisions
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+      - role: Undergraduate Research Assistant
+        time: June 2021 - May 2022
+        company: U-M Direct Brain Interface Lab
+         details:
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem.
+            - Improved functionality of a classifier written in C++ that uses EEG activity to determine the key on a virtual keyboard that a person is selecting
+            - Collaborated with other lab members through GitHub and regular lab meetings to make our brain-computer interface program compatible with modern processors
+
+
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur 
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh. 
+#             Aenean fermentum, felis vulputate suscipit accumsan, 
+#             sem enim bibendum augue, sed convallis arcu lacus at dui. 
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+#             Praesent venenatis erat non augue suscipit consectetur. 
             
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis, 
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at. 
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur 
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh. 
+#             Aenean fermentum, felis vulputate suscipit accumsan, 
+#             sem enim bibendum augue, sed convallis arcu lacus at dui. 
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
+#             Praesent venenatis erat non augue suscipit consectetur. 
         
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # oss:
 #     title: OSS Contributions
@@ -204,43 +207,43 @@ projects:
 #         link: "#"
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
+#     toolset:
+#       - name: Python & Django
 
-      - name: Javascript & jQuery
+#       - name: Javascript & jQuery
 
-      - name: Angular
+#       - name: Angular
 
-      - name: HTML5 & CSS
+#       - name: HTML5 & CSS
 
-      - name: Ruby on Rails
+#       - name: Ruby on Rails
 
-      - name: Sketch & Photoshop
+#       - name: Sketch & Photoshop
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
