@@ -16,7 +16,7 @@ sidebar:
     email: clgo@sas.upenn.edu
     linkedin: #alandoe
     github: contralto
-    twitter: #'@webjeda'
+    twitter: '@clgonciulea'
 
     # languages:
     #   title: Languages
@@ -30,27 +30,27 @@ sidebar:
     #     - idiom: Spanish
     #       level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: 1
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: 1
+    #       link:
 
-        - item: 2
-          link:
+    #     - item: 2
+    #       link:
 
-        - item: 3
-          link:
+    #     - item: 3
+    #       link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
 education:
     title: Education
     info:
@@ -82,18 +82,18 @@ experiences:
       - role: Research Specialist
         time: July 2023 - Present
         company: Schapiro Lab at the University of Pennsylvania, Philadelphia
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+        # details: |
+        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #   Cum sociis natoque penatibus et magnis dis parturient montes,
+        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #   pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #   enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #   error sit voluptatem accusantium doloremque laudantium, totam rem
+        #   aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #   architecto beatae vitae dicta sunt explicabo.
+        #     - Bullet point
+        #     - Bullet point
       - role: Undergraduate Research Assistant
         time: October 2019 - July 2023
         company: U-M Speech Production Lab
