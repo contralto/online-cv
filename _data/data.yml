@@ -105,7 +105,7 @@ experiences:
       - role: Undergraduate Research Assistant
         time: June 2021 - May 2022
         company: U-M Direct Brain Interface Lab
-         details: |
+        details: |
             - Improved functionality of a classifier written in C++ that uses EEG activity to determine the key on a virtual keyboard that a person is selecting
             - Collaborated with other lab members through GitHub and regular lab meetings to make our brain-computer interface program compatible with modern processors
 
