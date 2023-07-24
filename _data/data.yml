@@ -98,11 +98,6 @@ experiences:
         time: October 2019 - July 2023
         company: U-M Speech Production Lab
         details: 
-          # Describe your role here lorem ipsum dolor sit amet, consectetuer
-          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          # Cum sociis natoque penatibus et magnis dis parturient montes,
-          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          # pellentesque eu, pretium quis, sem.
             - Implement numerous R scripts to create graphs for published papers 
             - Head the creation of an R tutorial for students with any experience to begin creating graphs and modifying data
             - Edit research papers written in the lab to improve organization and clarity through multiple broad and detail-oriented revisions
@@ -111,11 +106,6 @@ experiences:
         time: June 2021 - May 2022
         company: U-M Direct Brain Interface Lab
          details:
-        #   Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #   Cum sociis natoque penatibus et magnis dis parturient montes,
-        #   nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #   pellentesque eu, pretium quis, sem.
             - Improved functionality of a classifier written in C++ that uses EEG activity to determine the key on a virtual keyboard that a person is selecting
             - Collaborated with other lab members through GitHub and regular lab meetings to make our brain-computer interface program compatible with modern processors
 
